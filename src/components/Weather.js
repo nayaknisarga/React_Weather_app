@@ -23,7 +23,7 @@ function Weather() {
   }, []);
 
   function button() {
-    navigate("/Main");
+    navigate("/");
   }
 
   return (
